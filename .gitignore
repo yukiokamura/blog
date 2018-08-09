@@ -1,0 +1,8 @@
+/node_modules/
+/wordpress/conf/
+/wordpress/logs/
+/wordpress/app/public/wp-admin/
+/wordpress/app/public/wp-includes/
+/wordpress/app/public/*.php
+/wordpress/app/public/*.html
+/wordpress/app/public/*.txt
